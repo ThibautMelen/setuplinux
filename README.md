@@ -26,3 +26,6 @@
 
 ## Install MongoDB Compass
 https://www.mongodb.com/download-center?jmp=nav#compass
+
+## Create SSH
+https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair
