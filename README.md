@@ -10,7 +10,6 @@
 `wget -O upm https://git.io/v1UKq && chmod +x upm && ./upm && rm upm` ,
 `uni bake daltonmenezes/nebulosa-theme`
 
-
 ## Install NODEJS
 `sudo apt-get install git` ,
 `sudo apt install nodejs` ,
@@ -19,6 +18,11 @@
 ## Install NPM
 `sudo apt install npm` ,
 `npm --version`
+
+## Install YARN
+`curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add - echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list` ,
+`sudo apt-get update && sudo apt-get install yarn` ,
+`sudo apt-get install --no-install-recommends yarn`
 
 ## Install MongoDB
 `sudo apt install -y mongodb` ,
