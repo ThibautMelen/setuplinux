@@ -33,3 +33,6 @@ https://www.mongodb.com/download-center?jmp=nav#compass
 
 ## Create SSH
 https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair
+
+## Git Kraken
+`wget https://release.gitkraken.com/linux/gitkraken-amd64.deb dpkg -i gitkraken-amd64.deb`
